@@ -10,6 +10,12 @@ public class WelcomeController {
 	public String greeting() {
 		return "<h1>Good Morning</h1>";
 	}
+	
+	@GetMapping("/api/all")
+	public String greetingAll() {
+		return "Good Morning to All";
+	}
+	
 }
 
 
