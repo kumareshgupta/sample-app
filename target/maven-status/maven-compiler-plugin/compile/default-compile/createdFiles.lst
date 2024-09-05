@@ -1,0 +1,6 @@
+com\unext\demo\config\WebConfig$1.class
+com\unext\demo\config\WebConfig.class
+com\unext\demo\SampleAppApplication.class
+com\unext\demo\controller\BookController.class
+com\unext\demo\controller\WelcomeController.class
+com\unext\demo\model\Book.class
